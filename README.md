@@ -13,6 +13,8 @@ I am a software engineering student, currently a data scientist.
 Always learning about new technologies.
 
 # *Projeto Lisboa Airbnb*
+**Link do projeto** https://colab.research.google.com/drive/1z-gnY5FtEuNufFeHXsddA5QMgRdBVPpr?usp=sharing
+
 Neste projeto fiz uma análise superficial com banco de dados do AIRBNB, onde analisei a cidade de Lisboa em Portugal.
 Convido a todos para que analisem meu trabalho e deixem seu comentário.
 
